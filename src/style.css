@@ -1,0 +1,23 @@
+@media (max-width: 500) {
+  
+}
+
+@font-face {
+  font-family: futura-light;
+  src: url("static/fonts/futura-light.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: futura-book;
+  src: url("static/fonts/futura-book.ttf") format("truetype")
+}
+
+@font-face {
+  font-family: futura-medium;
+  src: url("static/fonts/futura-medium.ttf") format("truetype")
+}
+
+
+.page-layout {
+  padding: 40px 16% 50px 16%;
+}
